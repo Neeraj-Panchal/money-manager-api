@@ -60,6 +60,8 @@ public class EmailService {
             // Use MimeMessageHelper and set multipart = true
             MimeMessageHelper helper = new MimeMessageHelper(mimeMessage, true, "UTF-8");
 
+            helper.setFrom("neerajpanchal098@gmail.com");
+
             helper.setTo(to);
             helper.setSubject(subject);
 
