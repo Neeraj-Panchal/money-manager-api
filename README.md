@@ -17,12 +17,13 @@ This is the robust backend for the **MoneyManager** application, designed to hel
 ## 🎬 Project Demonstration
 
 <p align="center">
-  <a href="https://www.linkedin.com/posts/neeraj-panchal-5b6a85263_fullstack-springboot-reactjs-activity-7408585670748803072-abcd">
-    <img src="https://img.shields.io/badge/Watch%20Full%20Demo-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="Watch Demo" />
+  <a href="https://www.linkedin.com/posts/neeraj-panchal-5b6a85263_javadeveloper-springboot-reactjs-activity-7408585808703688704-05UM">
+    <img src="https://img.shields.io/badge/Watch%20Frontend%20Demo-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="Watch Video Demo" />
   </a>
   <br>
-  <i>Click to watch the MoneyManager application in action.</i>
+  <i>Click to watch the full UI walkthrough and feature demonstration on LinkedIn.</i>
 </p>
+
 
 ---
 
