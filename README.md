@@ -51,7 +51,7 @@ This is the robust backend for the **MoneyManager** application, designed to hel
 The API has been rigorously tested using **Postman**. Below is a look at the comprehensive collection covering User Registration, Login, and Finance Management.
 
 <p align="center">
-  <img src="https://github.com/Neeraj-Panchal/money-manager-api/raw/main/MM-testing.png" width="800" alt="Postman Testing API Network" />
+  <img src="https://github.com/Neeraj-Panchal/money-manager-api/raw/master/MM-testing.png" width="800" alt="Postman Testing API Network" />
 </p>
 
 ---
